@@ -1,0 +1,6 @@
+module Pods_HealthInsurance {
+  umbrella header "Pods-HealthInsurance-umbrella.h"
+
+  export *
+  module * { export * }
+}
